@@ -24,12 +24,13 @@ h1 {
     grid-template-columns: repeat(2,1fr);  /*2 columns*/
     gap: 20px;
     padding: 20px;;
-    justify-content: center;
+    /* justify-content: center; */
     max-width: 900px;
     min-width: 400px;
     margin: 0 auto;
 }
 
+/*
 .emojis {
     display: flex;
     flex-direction: column;
@@ -41,10 +42,19 @@ h1 {
     background-color: white;
 }
 
+*/
 
 .icon {
     font-size: 50px;
     text-align: center;
     order: -1;
+}
+
+h2 {
+    color: black;
+    margin-bottom: 10px;
+    border-bottom: 2px solid rgb(144, 141, 141);
+    width: 100%;
+    text-align: left;
 }
 
