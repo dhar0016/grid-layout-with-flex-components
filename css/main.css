@@ -64,3 +64,15 @@ p {
     text-align: left;
 }
 
+
+a { /**/
+    color: white;
+    background-color: blueviolet;
+    text-decoration: none;
+    display: block;
+   text-align: left;
+   padding: 10px;
+   border-radius: 5px;
+   width: 100%;
+}
+
