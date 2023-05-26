@@ -30,6 +30,19 @@ h1 {
     margin: 0 auto;
 }
 
+.emoji {
+    border: 1px solid black;
+    border-radius: 5px;
+    display: grid;
+    padding: 30px;
+    padding-right: 40px;
+    overflow: hidden;
+
+
+    
+}
+
+
 /*
 .emojis {
     display: flex;
@@ -65,7 +78,7 @@ p {
 }
 
 
-a { /**/
+.emoji a { /**/
     color: white;
     background-color: blueviolet;
     text-decoration: none;
