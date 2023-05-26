@@ -40,3 +40,11 @@ h1 {
     padding: 20px;
     background-color: white;
 }
+
+
+.icon {
+    font-size: 50px;
+    text-align: center;
+    order: -1;
+}
+
