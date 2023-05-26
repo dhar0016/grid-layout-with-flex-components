@@ -15,4 +15,6 @@ body {
     border-bottom: 1px solid white;
 }
 
-
+h1 {
+    color: black; /*main heading color*/
+}
