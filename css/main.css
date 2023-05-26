@@ -8,5 +8,11 @@ body {
 }
 
 
+.siteheader {
+    background-color: rgb(254, 254, 254);
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid white;
+}
 
 
