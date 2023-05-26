@@ -18,3 +18,14 @@ body {
 h1 {
     color: black; /*main heading color*/
 }
+
+.emojis {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);  /*2 columns*/
+    gap: 20px;
+    padding: 20px;;
+    justify-content: center;
+    max-width: 900px;
+    min-width: 400px;
+    margin: 0 auto;
+}
