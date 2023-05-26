@@ -50,11 +50,13 @@ h1 {
     order: -1;
 }
 
-h2 {
+h2 { /*Style the card title*/
     color: black;
     margin-bottom: 10px;
     border-bottom: 2px solid rgb(144, 141, 141);
     width: 100%;
     text-align: left;
 }
+
+
 
